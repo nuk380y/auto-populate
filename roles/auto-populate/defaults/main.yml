@@ -1,0 +1,10 @@
+---
+# defaults file for auto-populate
+
+username: "ddean"
+github_name: "nuk380y"
+email: "runfromnuke@gmail.com"
+homedir: "/home/ddean"
+laptop_venv_tld: "{{ homedir }}/.python_venv"
+
+...
